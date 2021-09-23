@@ -1,0 +1,8 @@
+{
+  "short_name": "Multiplication learning",
+  "name": "Simple app to learn Multiplication",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

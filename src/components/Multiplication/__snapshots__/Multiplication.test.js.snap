@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Multiplcation component :: should render component 1`] = `
+<div>
+  <ul
+    class="Container"
+  >
+    <li
+      class="Item Item-selected"
+      data-testid="list-item"
+    >
+      1
+    </li>
+    <li
+      class="Item Item-selected"
+      data-testid="list-item"
+    >
+      2
+    </li>
+    <li
+      class="Item Item-selected"
+      data-testid="list-item"
+    >
+      3
+    </li>
+    <li
+      class="Item Item-selected"
+      data-testid="list-item"
+    >
+      4
+    </li>
+    <li
+      class="Item Item-selected"
+      data-testid="list-item"
+    >
+      5
+    </li>
+    <li
+      class="Item Item-selected"
+      data-testid="list-item"
+    >
+      6
+    </li>
+    <li
+      class="Item Item-selected"
+      data-testid="list-item"
+    >
+      7
+    </li>
+    <li
+      class="Item Item-selected"
+      data-testid="list-item"
+    >
+      8
+    </li>
+    <li
+      class="Item Item-selected"
+      data-testid="list-item"
+    >
+      9
+    </li>
+    <li
+      class="Item Item-selected"
+      data-testid="list-item"
+    >
+      10
+    </li>
+  </ul>
+</div>
+`;

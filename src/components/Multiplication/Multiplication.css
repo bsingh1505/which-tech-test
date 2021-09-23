@@ -1,0 +1,30 @@
+.Container {
+  display: flex;
+  flex-flow: row wrap;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  max-width: 1280px;
+  align-content: center;
+}
+.Item {
+  background: tomato;
+  width: 400px;
+  height: 250px;
+  margin: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 5em;
+  text-align: center;
+  line-height: 250px;
+}
+.Item-selected {
+  background: green !important;
+}
+@media screen and (min-width: 1600px) {
+  .Container {
+    border: 10px;
+    border-style: dotted;
+  }
+}
